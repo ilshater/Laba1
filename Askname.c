@@ -9,3 +9,5 @@ void askname(char *first, char *last)
 	
 	printf("Now enter your last name:");
 	gets(last);/*buffer overflow? whats that?*/
+}
+return 0;
